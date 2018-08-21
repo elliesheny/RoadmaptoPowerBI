@@ -1,6 +1,6 @@
 # Roadmap to Power BI 
 
-### Power BI Basic
+### Basic
 
 
  
@@ -31,21 +31,52 @@
     * [ ] **[Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence](https://www.safaribooksonline.com/library/view/beginning-dax-with/9781484234778/):**
         Key concepts such as mapping techniques from SQL to DAX, filtering, grouping, joining, pivoting, and using temporary tables, all aimed at the SQL professional. 
 
-### Power BI Intermediate
+### Intermediate
+
+* ##### Power BI Intermediate
 
     * [ ] **[Data Modeling for Power BI](https://www.safaribooksonline.com/library/view/analyzing-data-with/9781509302833/):**
 
+        For experienced data modelers looking for tips from the experts.
+
     * [ ] **[Pro Power BI Desktop](https://www.safaribooksonline.com/library/view/pro-power-bi/9781484232101/):**
+
+        How to choose from a wide range of built-in and third-party visualization types so that your message is always enhanced. 
 
     * [ ] **[Microsoft Power BI Cookbook](https://www.safaribooksonline.com/library/view/microsoft-power-bi/9781788290142/):**
 
-    * [ ] **[Mastering Microsoft Power BI](https://www.safaribooksonline.com/library/view/mastering-microsoft-power/9781788297233/):**
+        * From connecting to your data sources to developing and deploying immersive, mobile-ready dashboards and visualizations, this book covers it all
+        * Over 90 hands-on, technical recipes, tips, and use cases from across the Power BI platform including the Power BI Service and Mobile Applications
+        * Proven development techniques and guidance for implementing custom solutions with DAX and M languages
 
+    * [ ] **[Mastering Microsoft Power BI](https://www.safaribooksonline.com/library/view/mastering-microsoft-power/9781788297233/):**
+        * Build efficient data retrieval and transformation processes with the Power Query M Language
+        * Design scalable, user-friendly DirectQuery and Import Data Models
+        * Develop visually rich, immersive, and interactive reports and dashboards
+        * Maintain version control and stage deployments across development, test, and production environments
+        * Manage and monitor the Power BI Service and the On-premises data gateway
+        * Develop a fully on-premise solution with the Power BI Report Server
+        * Scale up a Power BI solution via Power BI Premium capacity and migration to Azure Analysis Services or SQL Server Analysis Services
+
+
+* ##### DAX Intermediate
+  
     * [ ] **[The Definitive Guide to DAX](https://www.safaribooksonline.com/library/view/the-definitive-guide/9780735698383/):**
+
+        * Master core DAX concepts, including calculated columns, measures, and error handling
+        * Understand evaluation contexts and the CALCULATE and CALCULATETABLE functions
+        * Perform time-based calculations: YTD, MTD, previous year, working days, and more
+        * Work with expanded tables, complex functions, and elaborate DAX expressions
+        * Perform calculations over hierarchies, including parent/child hierarchies
+        * Use DAX to express diverse and unusual relationships
+        * Measure DAX query performance with SQL Server Profiler and DAX Studio
 
     * [ ] **[DAX Patterns](https://www.daxpatterns.com/patterns/):**
 
-### Power BI Advanced
+        Patterns for different use cases
+
+### Advanced
+
 * New updates for Power BI
 * Community
 
