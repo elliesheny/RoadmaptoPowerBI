@@ -24,26 +24,26 @@
 
 * ##### DAX Basic
 
-  [X] **[Introducing DAX Video Course](https://www.sqlbi.com/p/introducing-dax-video-course/):** 
+    * [x] **[Introducing DAX Video Course](https://www.sqlbi.com/p/introducing-dax-video-course/):** 
 
-    Introduce DAX Syntax and basic implementation. (SUMX, Filter, All, Calculation, Contexts, Date...)
+        Introduce DAX Syntax and basic implementation. (SUMX, Filter, All, Calculation, Contexts, Date...)
 
-  [ ] **[Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence](https://www.safaribooksonline.com/library/view/beginning-dax-with/9781484234778/):**
-
+    * [ ] **[Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence](https://www.safaribooksonline.com/library/view/beginning-dax-with/9781484234778/):**
+        Key concepts such as mapping techniques from SQL to DAX, filtering, grouping, joining, pivoting, and using temporary tables, all aimed at the SQL professional. 
 
 ### Power BI Intermediate
 
-  [ ] **[Data Modeling for Power BI](https://www.safaribooksonline.com/library/view/analyzing-data-with/9781509302833/):**
+    * [ ] **[Data Modeling for Power BI](https://www.safaribooksonline.com/library/view/analyzing-data-with/9781509302833/):**
 
-  [ ] **[Pro Power BI Desktop](https://www.safaribooksonline.com/library/view/pro-power-bi/9781484232101/):**
+    * [ ] **[Pro Power BI Desktop](https://www.safaribooksonline.com/library/view/pro-power-bi/9781484232101/):**
 
-  [ ] **[Microsoft Power BI Cookbook](https://www.safaribooksonline.com/library/view/microsoft-power-bi/9781788290142/):**
+    * [ ] **[Microsoft Power BI Cookbook](https://www.safaribooksonline.com/library/view/microsoft-power-bi/9781788290142/):**
 
-  [ ] **[Mastering Microsoft Power BI](https://www.safaribooksonline.com/library/view/mastering-microsoft-power/9781788297233/):**
+    * [ ] **[Mastering Microsoft Power BI](https://www.safaribooksonline.com/library/view/mastering-microsoft-power/9781788297233/):**
 
-  [ ] **[The Definitive Guide to DAX](https://www.safaribooksonline.com/library/view/the-definitive-guide/9780735698383/):**
+    * [ ] **[The Definitive Guide to DAX](https://www.safaribooksonline.com/library/view/the-definitive-guide/9780735698383/):**
 
-  [ ] **[DAX Patterns](https://www.daxpatterns.com/patterns/):**
+    * [ ] **[DAX Patterns](https://www.daxpatterns.com/patterns/):**
 
 ### Power BI Advanced
 * New updates for Power BI
