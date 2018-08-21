@@ -6,21 +6,21 @@
  
 * ##### Power BI Basic
 
-  [ ] **[Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI](https://www.safaribooksonline.com/library/view/exam-ref-70-778/9780134857817/):** 
+    * [ ] **[Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI](https://www.safaribooksonline.com/library/view/exam-ref-70-778/9780134857817/):** 
 
-    Designed for experienced BI professionals and data analysts ready to advance their status, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the MCSA level.  
+        Designed for experienced BI professionals and data analysts ready to advance their status, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the MCSA level.  
 
-  [x] **[Introducing Microsoft Power BI: Analyzing and Visualizing Data with Power BI](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2018/course/):** 
+    * [x] **[Introducing Microsoft Power BI: Analyzing and Visualizing Data with Power BI](https://courses.edx.org/courses/course-v1:Microsoft+DAT207x+2T2018/course/):** 
     
-    EdX course for basic Power BI Desktop & Power BI Service. 
+        EdX course for basic Power BI Desktop & Power BI Service. 
 
-  [ ] **[Power BI Doc](https://docs.microsoft.com/zh-cn/power-bi/):** 
+    * [ ] **[Power BI Doc](https://docs.microsoft.com/zh-cn/power-bi/):** 
     
-    With Power BI documentation, you get expert information and answers to address your needs, regardless of how you use Power BI.  
+        With Power BI documentation, you get expert information and answers to address your needs, regardless of how you use Power BI.  
 
-  [ ] **[Power BI Masterclass - Beginners to Advanced](https://www.safaribooksonline.com/videos/power-bi-masterclass/9781789533095):** 
+    * [ ] **[Power BI Masterclass - Beginners to Advanced](https://www.safaribooksonline.com/videos/power-bi-masterclass/9781789533095):** 
     
-    The ETL capabilities of Microsoft Power BI ("get messy data easily into the right format"); Master simple and very advanced DAX (Power BI language, similar to like excel formulas) calculations; Create outstanding visualizations and reports; Derive valuable highly profitable insights.   
+        The ETL capabilities of Microsoft Power BI ("get messy data easily into the right format"); Master simple and very advanced DAX (Power BI language, similar to like excel formulas) calculations; Create outstanding visualizations and reports; Derive valuable highly profitable insights.   
 
 * ##### DAX Basic
 
