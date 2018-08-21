@@ -7,7 +7,9 @@
 * [Power BI Masterclass - Beginners to Advanced](https://www.safaribooksonline.com/videos/power-bi-masterclass/9781789533095)
 * [Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence](https://www.safaribooksonline.com/library/view/beginning-dax-with/9781484234778/)
 * [Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI](https://www.safaribooksonline.com/library/view/exam-ref-70-778/9780134857817/)
-	<div align=center> ![Minion](./images/exam_ref_book.png)
+| Book | Description |
+| ------ | ----------- |
+|![Minion](./images/exam_ref_book.png) | Designed for experienced BI professionals and data analysts ready to advance their status, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the MCSA level. |
 
 	
 	
