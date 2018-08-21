@@ -9,8 +9,8 @@
 * [Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI](https://www.safaribooksonline.com/library/view/exam-ref-70-778/9780134857817/)
 | Book | Description |
 | ------ | ----------- |
-|![Minion](./images/exam_ref_book.png) | Designed for experienced BI professionals and data analysts ready to advance their status, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the MCSA level. |
-
+| 123 | Designed for experienced BI professionals and data analysts ready to advance their status, Exam Ref focuses on the critical thinking and decision-making acumen needed for success at the MCSA level. |
+![Minion](./images/exam_ref_book.png)
 	
 	
 ### Ninja
