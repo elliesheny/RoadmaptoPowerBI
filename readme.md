@@ -1,5 +1,7 @@
 # Roadmap to Power BI 
 
+Start the learning journey with the collection of **books** and **materials**, and become a Guru on Power BI!
+
 ### Basic
 
 
