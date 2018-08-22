@@ -4,7 +4,7 @@
 
 
  
-* ##### Power BI Basic
+* #### Power BI Basic
 
     * [ ] **[Exam Ref 70-778 Analyzing and Visualizing Data by Using Microsoft Power BI](https://www.safaribooksonline.com/library/view/exam-ref-70-778/9780134857817/):** 
 
@@ -33,7 +33,7 @@
         The ETL capabilities of Microsoft Power BI ("get messy data easily into the right format"); Master simple and very advanced DAX (Power BI language, similar to like excel formulas) calculations; Create outstanding visualizations and reports; Derive valuable highly profitable insights.   
 
 
-* ##### DAX Basic
+* #### DAX Basic
 
     * [x] **[Introducing DAX Video Course](https://www.sqlbi.com/p/introducing-dax-video-course/):** 
 
@@ -45,7 +45,7 @@
 
 ### Intermediate
 
-* ##### Power BI Intermediate
+* #### Power BI Intermediate
 
     * [ ] **[Data Modeling for Power BI](https://www.safaribooksonline.com/library/view/analyzing-data-with/9781509302833/):**
 
@@ -71,7 +71,7 @@
         * Scale up a Power BI solution via Power BI Premium capacity and migration to Azure Analysis Services or SQL Server Analysis Services
 
 
-* ##### DAX Intermediate
+* #### DAX Intermediate
   
     * [ ] **[The Definitive Guide to DAX](https://www.safaribooksonline.com/library/view/the-definitive-guide/9780735698383/):**
 
