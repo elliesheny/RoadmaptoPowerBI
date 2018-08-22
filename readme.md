@@ -18,9 +18,20 @@
     
         With Power BI documentation, you get expert information and answers to address your needs, regardless of how you use Power BI.  
 
+    * [ ] **Power BI Fast Start:** 
+
+        MIP material for Power BI 
+        * Step 1: Education - Workshop: Business Analytics with Power BI (including 8 modules)
+        * Step 2: Proof of Concept – Bringing your data into Power BI (including 3 scenarios)
+  
+    * [x] **Power BI Feature Overview:** 
+    
+        A Power BI Overview slides shared by Benny(including 5 slides)
+
     * [ ] **[Power BI Masterclass - Beginners to Advanced](https://www.safaribooksonline.com/videos/power-bi-masterclass/9781789533095):** 
     
         The ETL capabilities of Microsoft Power BI ("get messy data easily into the right format"); Master simple and very advanced DAX (Power BI language, similar to like excel formulas) calculations; Create outstanding visualizations and reports; Derive valuable highly profitable insights.   
+
 
 * ##### DAX Basic
 
@@ -30,6 +41,7 @@
 
     * [ ] **[Beginning DAX with Power BI: The SQL Pro’s Guide to Better Business Intelligence](https://www.safaribooksonline.com/library/view/beginning-dax-with/9781484234778/):**
         Key concepts such as mapping techniques from SQL to DAX, filtering, grouping, joining, pivoting, and using temporary tables, all aimed at the SQL professional. 
+
 
 ### Intermediate
 
@@ -79,6 +91,16 @@
 
 * New updates for Power BI
 * Community
+
+### Microsoft Ready
+
+* [ ] [Cert Exam Prep: Exam 70-778: Analyzing and Visualizing Data with PowerBI](https://content.microsoftready.com/fy18q3/session/PRO-CRT303)
+
+* [ ] [Democratizing Power BI enterprise scenarios through better together with Office 365 and Excel](https://content.microsoftready.com/fy18q3/session/MW-BI308)
+
+* [ ] [Governance and administration for Microsoft Power BI in the enterprise](https://content.microsoftready.com/fy18q3/session/MW-BI304)
+
+* [ ] [Creating Enterprise Grade BI Models with Power BI Premium ](https://content.microsoftready.com/fy18q3/session/MW-BI310)
 
 ### Others
 
