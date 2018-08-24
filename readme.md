@@ -16,15 +16,16 @@ Start the learning journey with the collection of **books** and **materials**, a
     
         EdX course for basic Power BI Desktop & Power BI Service. 
 
-    * [ ] **[Power BI Doc](https://docs.microsoft.com/zh-cn/power-bi/):** 
-    
-        With Power BI documentation, you get expert information and answers to address your needs, regardless of how you use Power BI.  
-
     * [ ] **Power BI Fast Start:** 
 
         MIP material for Power BI 
-        * Step 1: Education - Workshop: Business Analytics with Power BI (including 8 modules)
-        * Step 2: Proof of Concept – Bringing your data into Power BI (including 3 scenarios)
+        * [x] Power BI Desktop
+
+        * [ ] Power BI Service
+        
+        * [ ] Power BI with Machine Learning(R Script)
+        
+        * [ ] Power BI for the developer
   
     * [x] **Power BI Feature Overview:** 
     
@@ -91,7 +92,8 @@ Start the learning journey with the collection of **books** and **materials**, a
 
 ### Advanced
 
-* New updates for Power BI
+* [Power BI Blog: New updates and features for Power BI](https://powerbi.microsoft.com/en-us/blog/)
+
 * Community
 
 ### Microsoft Ready
@@ -106,4 +108,18 @@ Start the learning journey with the collection of **books** and **materials**, a
 
 ### Others
 
-[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+* **[M Language(Power Query Formula Language)](https://msdn.microsoft.com/library/Mt253322?ui=en-US&rs=en-IN&ad=IN)**
+
+    Use the Advanced Editor to edit the query or Blank Query data source to start from an empty query
+
+* **[DAX Functions](https://msdn.microsoft.com/query-bi/dax/dax-function-reference)**
+
+    Data Analysis Expression (DAX) formulas. Ideal for complex calculations such as time intelligence, growth formulas, ratios, and more complex KPIs.
+
+* **[Dax formatter](https://Daxformatter.com)**
+
+* **[Power BI Doc](https://docs.microsoft.com/zh-cn/power-bi/):** 
+    
+     With Power BI documentation, you get expert information and answers to address your needs, regardless of how you use Power BI.  
+
+* **[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)**
