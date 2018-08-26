@@ -21,7 +21,7 @@ Start the learning journey with the collection of **books** and **materials**, a
         MIP material for Power BI 
         * [x] Power BI Desktop
 
-        * [ ] Power BI Service
+        * [x] Power BI Service
         
         * [ ] Power BI with Machine Learning(R Script)
         
