@@ -16,7 +16,7 @@ Start the learning journey with the collection of **books** and **materials**, a
     
         EdX course for basic Power BI Desktop & Power BI Service. 
 
-    * [ ] **Power BI Fast Start:** 
+    * [x] **Power BI Fast Start:** 
 
         MIP material for Power BI 
         * [x] Power BI Desktop
