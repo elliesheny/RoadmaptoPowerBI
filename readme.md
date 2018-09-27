@@ -34,7 +34,7 @@ Start the learning journey with the collection of **books** and **materials**, a
     * [ ] **[Power BI Masterclass - Beginners to Advanced](https://www.safaribooksonline.com/videos/power-bi-masterclass/9781789533095):** 
     
         The ETL capabilities of Microsoft Power BI ("get messy data easily into the right format"); Master simple and very advanced DAX (Power BI language, similar to like excel formulas) calculations; Create outstanding visualizations and reports; Derive valuable highly profitable insights.   
-
+    * [ ] **[人人都是数据分析师 -微软Power BI实践指南 宋莉桓 沈云]**
 
 * #### DAX Basic
 
